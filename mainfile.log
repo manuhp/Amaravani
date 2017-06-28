@@ -1,0 +1,1656 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2013.10.29)  28 JUN 2017 17:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mainfile.tex
+(./mainfile.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/nudi/nudi.sty
+Package: nudi 
+) (./mainfile.aux)
+\openout1 = `mainfile.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Try loading font information for OT1+ndi on input line 7.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/nudi/ot1ndi.fd
+File: ot1ndi.fd 
+)
+(./src/preface.tex
+Overfull \hbox (10.74281pt too wide) in paragraph at lines 11--12
+\OT1/ndi/m/n/10.95 iMDekfsx sidad‘hx‘paDis‘u‘vudu, sholxVk‘a‘gaLige BA‘vAnu‘vAd
+a itAyxdiyAgi parxkAshanadalilx udadxkUkx ner‘avu niVDiruva
+ []
+
+[1
+
+
+
+]
+Overfull \hbox (7.1996pt too wide) in paragraph at lines 15--16
+[]\OT1/ndi/m/n/10.95 elalxdakUkx migi‘lAgi, na‘m‘age sUPx‘tiR cilumeyAgi na‘mam
+x‘nunx anu‘garx‘hisi huriduMbisu‘titxruva parama‘
+ []
+
+) [2] (./mainfile.toc)
+\tf@toc=\write3
+\openout3 = `mainfile.toc'.
+
+ (./src/prakashakaranudi.tex [3
+
+] [4
+
+]
+Overfull \hbox (2.84029pt too wide) in paragraph at lines 10--11
+[]\OT1/ndi/m/n/10.95 BAratiVya saM‘sakxqqtiya oLa hora harivu‘gaLa‘nunx man‘asA
+re ici‘Cx‘su‘titxruva na‘mamx‘nADi‘navarAda susaM‘
+ []
+
+
+Overfull \hbox (7.6937pt too wide) in paragraph at lines 15--16
+[]\OT1/ndi/m/n/10.95 shirxVguruvina pATha‘parx‘va‘narU‘pavAgi horabaMdu, avana 
+saMkalapx‘daMte ama‘r‘a‘vANiyAgi rU‘pagoMDa
+ []
+
+
+Overfull \hbox (3.23694pt too wide) in paragraph at lines 17--19
+\OT1/ndi/m/n/10.95 nunxDi, hi‘nenxle, up‘oVdaGxta, parxsAtx‘vane, BU‘mike itAyx
+diyAgi EnoM‘dAdarU hesaru ko‘TuTx kelavicAra‘
+ []
+
+
+Overfull \hbox (2.7998pt too wide) in paragraph at lines 17--19
+\OT1/ndi/m/n/10.95 gaLa‘nunx‘Du‘vudu saM‘pArx‘dAyav‘Agi baM‘dideyAdarU, keV‘val
+a A saM‘parx‘dAyakAkxgi soV‘tu‘go‘LaLxdeV BU‘
+ []
+
+
+Overfull \hbox (6.55959pt too wide) in paragraph at lines 17--19
+\OT1/ndi/m/n/10.95 ada‘nunx niMdis‘u‘vudu- ada‘nunx pirxVtiy‘iMda AsAvxdis‘u‘va
+vara‘nunx ava‘heVLana mADu‘vudu sama‘paRkavAdi‘
+ []
+
+
+Overfull \hbox (20.82297pt too wide) in paragraph at lines 17--19
+\OT1/ndi/m/n/10.95 girabAradu, kaDi‘vANavu sAvx‘taM‘tarxyXvu kaDi‘vANakekx viru
+‘dad‘hx‘vA‘girabAradu,. hiVge er‘aDakUkx samatoVlavirabeVku.
+ []
+
+[5] [6]
+Overfull \hbox (19.05043pt too wide) in paragraph at lines 26--27
+[]\OT1/ndi/m/n/10.95 (yAvAga ar‘i‘tavara kaDey‘iMda savxlapxsavxlapx arivu mU‘D
+alu AraM‘BavAy‘i‘toV Aga nAnu mUKaRneMdu
+ []
+
+
+Overfull \hbox (0.29512pt too wide) in paragraph at lines 28--29
+\OT1/ndi/m/n/10.95 modal‘Ada badalA‘vaNe‘gaLa‘nunx sAvx‘gati‘s‘abahudu. Adare b
+Ay‘iM‘daleV ti‘n‘unxvudu hoVgi mUg‘ina mU‘
+ []
+
+
+Overfull \hbox (26.1082pt too wide) in paragraph at lines 28--29
+\OT1/ndi/m/n/10.95 AdadxriMda avanigU samamx‘tavAguva sAvx‘taM‘tarxyX-badalA‘va
+Ne‘gaLa‘nunx mAtarxveV nAvu baya‘su‘vudu yukatxvenisutetx. 
+ []
+
+[7]
+Overfull \hbox (9.96707pt too wide) in paragraph at lines 30--31
+\OT1/ndi/m/n/10.95 para‘m‘A‘sitxkayxveMdU toVru‘vaMte sharx‘dAd‘hx‘jA‘DayxdiMda
+ beLe‘dukoM‘DavarigU, viSayada vAsatxvikateyu athaR‘
+ []
+
+
+Overfull \hbox (10.6508pt too wide) in paragraph at lines 32--33
+\OT1/ndi/m/n/10.95 anukaraNavAda, modal‘A‘davu‘gaLa miti olalxda hu‘cucx. ivu‘g
+aL‘iMdAgi neY‘jakalapx‘negeV avakAshav‘i‘lalx. aMteyeV
+ []
+
+
+Overfull \hbox (27.94786pt too wide) in paragraph at lines 34--35
+[]\OT1/ndi/m/n/10.95 BArata ma‘haSiR‘gaLa ma‘hatAtxda aMtabARhayx shoVd‘haney‘i
+Mda odagida vicArad‘hAreya karx‘mavu heVgideyeM‘
+ []
+
+[8]
+Overfull \hbox (8.63495pt too wide) in paragraph at lines 49--50
+[]\OT1/ndi/m/n/10.95 edeyalilx maM‘darx savxra‘va‘nunxM‘Tu‘mA‘Dida pArx‘NavAyuv
+u Ud‘havxRgAmiyAgi meVle‘sAgutAtx taley‘
+ []
+
+) [9] [10
+
+] (./src/chapter1.tex
+adhAyxya 1.
+
+Overfull \hbox (17.93173pt too wide) in paragraph at lines 13--14
+[]\OT1/ndi/m/n/10.95 Iga heVL‘ida `Aka‘Like' enunxvudu yAva BASeya pada eMdu yo
+V‘cisidare, adu kananxDa BASeyadeMdu
+ []
+
+[1
+
+]
+Overfull \hbox (5.06165pt too wide) in paragraph at lines 19--20
+[]\OT1/ndi/m/n/10.95 2) `BASeyu saM‘sAkxradiMda saM‘sakxqq‘tavAgutatxde' enunxv
+u‘dAdare, kananxDa BASeyalilx vayx‘va‘hAradalilxruva
+ []
+
+
+Overfull \hbox (12.30405pt too wide) in paragraph at lines 21--22
+[]\OT1/ndi/m/n/10.95 3) `oLeLxya BAva‘va‘nunx sariyAgi vayxkatx‘goLisu‘vudU, BA
+v‘a‘gaLa paripUNaR‘vAda aBi‘vayxk‘itxge poVSakavU
+ []
+
+
+Overfull \hbox (9.08253pt too wide) in paragraph at lines 25--26
+\OT1/ndi/m/n/10.95 alalxdeV Iga vayx‘va‘hAradalilxruva saM‘sakxqqta BASeya‘nenx
+V noV‘Di‘darU, elAlx shabadx‘gaLU dhAtu mUlavAgiyeV
+ []
+
+[2]
+Overfull \hbox (13.70302pt too wide) in paragraph at lines 65--66
+\OT1/ndi/m/n/10.95 tiLidukoLuLxva kirxyeyalilx athaRvikAsavAy‘itu. (ititxVcege 
+elalx vi‘jAc‘nxni‘gaLU vikAsavA‘da‘va‘nunx purasakxrisu‘
+ []
+
+[3]
+Overfull \hbox (19.22435pt too wide) in paragraph at lines 81--82
+[]\OT1/ndi/m/n/10.95 shirxVyavaru adara meVle parxsh‘inxsi‘daru - gArx‘mayx mat
+utx agArx‘mayx‘gaLa niSakxqqSaTx savxrU‘paveVneMdu tiLiyabeVkalAlx!
+ []
+
+
+Overfull \hbox (18.08676pt too wide) in paragraph at lines 81--82
+\OT1/ndi/m/n/10.95 parxkaqti-‘parx‘tayxya‘gaLeraDU seVrikoM‘Dare oMdu pa‘davAgu
+tatxde. ada‘nunx bi‘TaTxre, padada savxrU‘pakekx kalapxneyAdarU
+ []
+
+
+Overfull \hbox (3.66252pt too wide) in paragraph at lines 83--84
+\OT1/ndi/m/n/10.95 makakxLu `avAvx' enunx‘tatxveyeMba vAyx‘va‘hArika par‘icayad
+a meVle I riVti heVLidudx. susaM‘sakxqq‘tara BASeya‘
+ []
+
+[4]
+Overfull \hbox (6.90916pt too wide) in paragraph at lines 123--124
+\OT1/ndi/m/n/10.95 vin‘iM‘dAdudu. `BASa-‘vayxkAtxyAM vAci' eMdu dhAtu‘pATha heV
+‘Lu‘titxde. vAkikxge utapx‘titxyeM‘dare vayxkatxteyeV
+ []
+
+[5]
+Overfull \hbox (9.15408pt too wide) in paragraph at lines 139--140
+[]\OT1/ndi/m/n/10.95 AdadxriMda di‘vayx BAva matutx di‘vayx saM‘sAkxra‘ga‘Lo‘Da
+neV huTiTxkoLuLxva BASeya‘nunx saM‘sakxqqta BASeyeMdU
+ []
+
+[6] [7]
+Overfull \hbox (15.63123pt too wide) in paragraph at lines 167--168
+\OT1/ndi/m/n/10.95 ilavxlanu agasatxyX mu‘ni‘gaLa‘nunx saM‘sakxqqta BASeyalilx 
+mAtanA‘DisidanaMte. alilx BASeyu saM‘sakxqq‘tada AkAradalelxV
+ []
+
+
+Overfull \hbox (6.80615pt too wide) in paragraph at lines 182--183
+[]\OT1/ndi/m/n/10.95 matotxMdu parxkaraNa‘va‘nUnx rA‘mAyaNada GaTaneyalilx tiLi
+yabahudAgide - AM‘janeVyanu ashoVka
+ []
+
+[8]
+Overfull \hbox (0.7954pt too wide) in paragraph at lines 207--208
+[]\OT1/ndi/m/n/10.95 hiVge oLa BAvavu mareyAgi, hora AkAr‘avu mAtarxveV beLedar
+U, saM‘sakxqq‘taveMdu baL‘a‘suva rUD‘
+ []
+
+
+Overfull \hbox (3.74823pt too wide) in paragraph at lines 211--212
+\OT1/ndi/m/n/10.95 tarabeVkAdare, AyA pa‘dAthaRkekx saM‘baMd‘hisida gu‘Na-kirxy
+A-savxBAvAdi dhamaR‘gaLalilx yAvu‘dAdaroM‘
+ []
+
+[9]
+Overfull \hbox (2.116pt too wide) in paragraph at lines 215--216
+[]\OT1/ndi/m/n/10.95 hiVge-parxdhAnavAgi BAva‘va‘nunx gaman‘isi BASeya‘nunx sho
+Vd‘hisidAga, yAva yAva de‘Vshada BASeyu
+ []
+
+
+Overfull \hbox (5.82478pt too wide) in paragraph at lines 215--216
+\OT1/ndi/m/n/10.95 heVge heVge beLe‘dideyeMba bagegx arivu mUDu‘vaM‘tAgutatxde.
+ aMteyeV AyA de‘Vsha‘davara manoVBAva‘
+ []
+
+[10]
+Overfull \hbox (4.3983pt too wide) in paragraph at lines 237--238
+[]\OT1/ndi/m/n/10.95 hiVge elAlx saM‘sakxqqti‘gaLa shAKe-shAKegaLalUlx BAr‘a‘ti
+Vyara manoVd‘hamaRda arivu heVge heVge Agide?
+ []
+
+) (./src/chapter2.tex [11] [12
+
+]
+adhAyxya 2.
+
+Overfull \hbox (4.82556pt too wide) in paragraph at lines 5--6
+[]\OT1/ndi/m/n/10.95 (saMsakxqqta BASeya vAyxsaM‘ga‘vananxBi‘vaq‘did‘hx‘paDis‘a
+lu, hiM‘domemx saM‘sakxqq‘tAy‘oV‘gavoMdu keVM‘darx sakAR‘
+ []
+
+[13]
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 66--79
+[] 
+ []
+
+
+Overfull \hbox (2.91652pt too wide) in paragraph at lines 88--89
+\OT1/ndi/m/n/10.95 garikate‘gaL‘iMda \OT1/cmr/m/n/10.95 (Civ-i-liza-tion) \OT1/
+ndi/m/n/10.95 samaq‘dad‘hx‘vA‘giruva saM‘sakxqqtaBASeya bagege rASaTxrXda parx‘
+je‘gaLalilx yathAthaR‘
+ []
+
+[14]
+Overfull \hbox (18.26744pt too wide) in paragraph at lines 92--93
+\OT1/ndi/m/n/10.95 naDe ivu‘gaLalilx paras‘apxra sAma‘rasayx matutx sAmaM‘jasay
+x‘gaLilalx‘daMtAgi, aMd‘hAnukaraNa paraM‘pareyalilx sikikxkoMDu
+ []
+
+
+Overfull \hbox (2.2485pt too wide) in paragraph at lines 92--93
+\OT1/ndi/m/n/10.95 man‘a‘susx mar‘aLu‘gAD‘i‘naM‘tA‘giru‘vaM‘taha I rA‘SiTxrXVya
+ jiV‘vanadalilx niV‘rina bugegxya‘nunx kANuva ci‘henxyaMte
+ []
+
+
+Overfull \hbox (25.10262pt too wide) in paragraph at lines 96--98
+\OT1/ndi/m/n/10.95 atayxMta nikaTavAda saM‘baMd‘havidudxjiV‘vanavu naDeyu‘titxd
+eyoV, aMteyeV jAc‘nx‘na-vi‘jAc‘nx‘nacakuSxSakxrAda sanAtanA‘
+ []
+
+
+Overfull \hbox (14.72202pt too wide) in paragraph at lines 110--111
+\OT1/ndi/m/n/10.95 jAc‘nx‘na-vi‘jAc‘nx‘na‘gaL‘iMda pUNaRrU taq‘pAtx‘tamxrU AdaM
+tha sanAtanA‘yaR BArata ma‘haSiR‘gaL‘iMda parxkAshagoMDu
+ []
+
+[15]
+Overfull \hbox (1.60374pt too wide) in paragraph at lines 114--115
+[]\OT1/ndi/m/n/10.95 hiVgiruvalilx I shAshavx‘tavAda BU‘mikey‘iMda cuyx‘tiya‘nu
+nx hoMdi, AdashaRshU‘nayxvU akaq‘tayx‘mayavU
+ []
+
+
+Overfull \hbox (7.55685pt too wide) in paragraph at lines 118--119
+[]\OT1/ndi/m/n/10.95 A shAshavxta va‘sutx‘va‘nenxV Ad‘harisikoMDu, adara pArx‘p
+itxya‘nenxV dheyxVyav‘Agi hoMdi sanAtanA‘yaR-BArata
+ []
+
+
+Overfull \hbox (6.93414pt too wide) in paragraph at lines 120--121
+[]\OT1/ndi/m/n/10.95 BAratiVya saM‘sakxqqtiyAdarU Enu? eMdu sAvad‘hAnav‘Agi sho
+Vdha mA‘Di‘dare, sanAtanA‘yaR-ma‘
+ []
+
+
+Overfull \hbox (4.33015pt too wide) in paragraph at lines 120--121
+\OT1/ndi/m/n/10.95 totxMdu pusatxkada mAtananx‘valaM‘bisi hoy‘o‘dx‘Du‘titxdeyeM
+‘budu edudx kANu‘tatxde. avaru tamamx muSiTxyalilx
+ []
+
+
+Overfull \hbox (26.31642pt too wide) in paragraph at lines 120--121
+\OT1/ndi/m/n/10.95 naDeyuva vAyxKAyxnoV‘pavAyxKAyx‘na‘gaLe‘lalxvU ku‘ru‘Danige 
+ku‘ru‘DaneV dAri toVrisa ho‘r‘aTaM‘tAgide-(aMdheVneYva
+ []
+
+[16]
+Overfull \hbox (14.00833pt too wide) in paragraph at lines 132--133
+\OT1/ndi/m/n/10.95 asida BASeyeV saM‘sakxqqta BASe. ama‘raBASe-deVvaBASeyenisik
+o‘LaLxlu adara hiMde amara BAvavirabeVku.
+ []
+
+
+Overfull \hbox (19.53569pt too wide) in paragraph at lines 132--133
+\OT1/ndi/m/n/10.95 maq‘tavAgu‘vu‘daSeTxV. AdadxriMda na‘mamx pAlige do‘rakiruva
+ BASeyu maqta BASeyAgideyeM‘dare sariyAgutetx.
+ []
+
+
+Overfull \hbox (7.59355pt too wide) in paragraph at lines 138--139
+[]\OT1/ndi/m/n/10.95 BagavAnf bAdarAya‘Naru athaRdo‘Dane samanavxya‘va‘nunx kAN
+ada vAkapxrX‘paM‘cadiMda yAvudeV parxy‘
+ []
+
+
+Overfull \hbox (9.44867pt too wide) in paragraph at lines 151--152
+\OT1/ndi/m/n/10.95 CaLiya‘nUnx seVrisikoMDu gwriVshaMkarada CaLiya‘nunx vaNiR‘s
+a‘ho‘r‘aTare, avana BASeyalilx avana dhavxniyalilx
+ []
+
+[17]
+Overfull \hbox (8.30878pt too wide) in paragraph at lines 164--165
+\OT1/ndi/m/n/10.95 ma-‘matutx moVkaSx‘gaLa‘nunx-‘nAlUkx pu‘ruSAthaR‘gaLa‘nUnx k
+arxmabadad‘hx‘vAgi viBAg‘isikoMDu, modalaneyadAda
+ []
+
+
+Overfull \hbox (13.63533pt too wide) in paragraph at lines 164--165
+\OT1/ndi/m/n/10.95 yaRvasAna‘gaLalilx hoM‘dANikey‘i‘lalxdeV, sadAshayavU ilalxd
+eV, yAradoV aMd‘hAnukaraNadalilx sAgutitxru‘
+ []
+
+[18]
+Overfull \hbox (1.51239pt too wide) in paragraph at lines 178--180
+\OT1/ndi/m/n/10.95 giV saM‘sethxyAgidudxkoMDu videyx‘gaLa bagege veY‘jAc‘nxnika
+ daqSiTxkoV‘nadiMda ciM‘tana maMthana kArayx‘gaLalilx toDa‘
+ []
+
+
+Overfull \hbox (2.21666pt too wide) in paragraph at lines 187--188
+[]\OT1/ndi/m/n/10.95 saMsakxqqti-nAgarikate-saMsakxqqta BASe matutx shAsatxrX‘g
+aLa saM‘baMd‘hiyAda parxshenx‘gaLige, I modaleV tiLisiru‘
+ []
+
+
+Overfull \hbox (25.13873pt too wide) in paragraph at lines 187--188
+\OT1/ndi/m/n/10.95 viSaya‘gaLa‘nunx, AyA viSaya‘gaLa jav‘AbAdxri-ad‘hikAra matu
+tx kAlade‘Vsha-‘vataR‘mAna‘gaLananxnusarisi yathAshak‘
+ []
+
+
+Overfull \hbox (5.64368pt too wide) in paragraph at lines 187--188
+\OT1/ndi/m/n/10.95 itx loVkada muM‘diDuva Ashaya hoM‘dida vi‘jAc‘nxna maMdi‘rad
+a kaDey‘iMda, viSaya-‘parxy‘oV‘ga-anuBav‘
+ []
+
+
+Overfull \hbox (1.75159pt too wide) in paragraph at lines 191--192
+[]\OT1/ndi/m/n/10.95 AyaR BAr‘a‘tiVyariMda horabaMda shAsatxrX-videyx matutx ka
+le‘gaLa ama‘raBAvavu keV‘vala garxMtha rAshigaLa
+ []
+
+[19]
+Overfull \hbox (11.47806pt too wide) in paragraph at lines 203--204
+\OT1/ndi/m/n/10.95 saM‘sakxqqta BASegaLalilx yathAthaR‘vAda(toVrikege siVmi‘tav
+A‘gada) anuBava‘va‘nunx paD‘edu, ada‘nunx vishavxBAratada
+ []
+
+
+Overfull \hbox (3.56029pt too wide) in paragraph at lines 207--208
+[]\OT1/ndi/m/n/10.95 (2-e) yAva oMdu amara BAva matutx QuSi‘manoVd‘hamaR‘va‘nun
+x tananx usir‘anAnxgi mADikoMDu
+ []
+
+
+Overfull \hbox (1.46333pt too wide) in paragraph at lines 207--208
+\OT1/ndi/m/n/10.95 pAlig‘i‘lalx‘vA‘giru‘vu‘dariMda, na‘mamx pArxM‘tadalelxV Eke
+? sam‘a‘garxrASaTxrX‘dalelxV saM‘sakxqqta BASege uci‘tavAda gwrava
+ []
+
+
+Overfull \hbox (11.81076pt too wide) in paragraph at lines 220--221
+[]\OT1/ndi/m/n/10.95 eMbudAgi. aM‘taha QuSi haq‘daya‘va‘nunx hokukx ada‘nunx pa
+rxkAshakekx taMdu loVkakekx par‘icaya mADiko‘
+ []
+
+
+Overfull \hbox (0.91386pt too wide) in paragraph at lines 220--221
+\OT1/ndi/m/n/10.95 vayxkAtx‘vayxkatx sithx‘tiya‘nunx anuBavakekx taM‘dukoLuLxvu
+deV saM‘sakxqqta BASe matutx saM‘sakxqqta sAhi‘tayx‘gaLa vAsatxvikavAda
+ []
+
+
+Overfull \hbox (16.40242pt too wide) in paragraph at lines 228--229
+[]\OT1/ndi/m/n/10.95 (3-bi) sAhi‘tayx akADemiya ni‘diRSaTx kA‘yaRkarx‘ma‘gaLa b
+agege par‘icayavu vi‘jAc‘nxna maMdi‘rakekx bAradiruva
+ []
+
+[20]
+Overfull \hbox (5.54733pt too wide) in paragraph at lines 238--239
+[]\OT1/ndi/m/n/10.95 (4-bi) aMteyeV pa‘rade‘Vsha‘gaLalilx hoVgi kaliyuva BAr‘a‘
+tiVya vi‘dAyx‘thiR‘gaLA‘galiV, rA‘jakiVyAd‘
+ []
+
+
+Overfull \hbox (0.29088pt too wide) in paragraph at lines 238--239
+\OT1/ndi/m/n/10.95 tiVya saM‘sakxqqtiya ni‘javAda par‘icaya‘va‘nunx ko‘Du‘vaMth
+avarAgabeVkAdare, modalu saM‘sakxqqtiya mUla‘
+ []
+
+
+Overfull \hbox (3.18541pt too wide) in paragraph at lines 246--247
+\OT1/ndi/m/n/10.95 yaRvu Igegx savaRsh‘erxVyasakxraveM‘budu na‘mamx aBi‘pArxyav
+‘AgideyeMdu heVLabaya‘sutetx vi‘jAc‘nxna maMdira. 
+ []
+
+
+Overfull \hbox (2.26791pt too wide) in paragraph at lines 254--256
+\OT1/ndi/m/n/10.95 baredare, de‘Vshada itara BAga‘gaLalilxya ja‘narige athaR‘mA
+DikoLuLxvudu asAd‘hayx‘vAdu‘dariM‘dalU, tatAkxlakekx
+ []
+
+[21]
+Overfull \hbox (4.44646pt too wide) in paragraph at lines 257--258
+\OT1/ndi/m/n/10.95 pArxde‘Vshika lip‘i‘gaLa par‘icayavU atayxM‘tAvashayxkav‘Agu
+tatxde. pArxde‘Vshika BASe‘gaLige saM‘sakxqqta BASegU anoyxV‘
+ []
+
+
+Overfull \hbox (19.90117pt too wide) in paragraph at lines 261--263
+\OT1/ndi/m/n/10.95 I AkArAdi‘gaLa mU‘laka, `avana man‘a‘susx iM‘tahudeV' eMdu k
+usha‘lanA‘da‘vanu tiLiyabahudu. idaraMteyeV
+ []
+
+
+Overfull \hbox (12.63995pt too wide) in paragraph at lines 266--267
+\OT1/ndi/m/n/10.95 vAyx‘va‘hArikavenisuva saM‘sakxqqta vAkn‘mxyada su‘vayx‘vase
+thxya‘nunx rUpisu‘titxde. pANini ma‘haSiR‘gaL‘iMda rUpisalapx‘
+ []
+
+
+Overfull \hbox (0.26869pt too wide) in paragraph at lines 274--275
+\OT1/ndi/m/n/10.95 Di‘dare, saM‘sakxqqta BASe, saM‘sakxqqta sAhi‘tayx matutx I 
+BASeya hiMdiruva vi‘jAc‘nxna ive‘lalxkUkx AGAtavAgutatxde. 
+ []
+
+[22]
+Overfull \hbox (8.22197pt too wide) in paragraph at lines 292--293
+\OT1/ndi/m/n/10.95 hoMdikoLuLxva ter‘adalilx iM‘d‘ina BAr‘a‘tiVya BASA sAhi‘tay
+x‘gaLa pwrxD‘havAda aBAyxsavu de‘VshadalAlx‘gabeVkeMdu
+ []
+
+
+Overfull \hbox (2.66432pt too wide) in paragraph at lines 296--297
+\OT1/ndi/m/n/10.95 pariVkeSx‘gaLu matutx avaru teV‘gaRDeyAda meVle Ena‘nenx‘dur
+u noV‘Du‘vareM‘budu ide‘lAlx vishavxvi‘dAyxlaya‘
+ []
+
+
+Overfull \hbox (8.91484pt too wide) in paragraph at lines 296--297
+\OT1/ndi/m/n/10.95 gaLu yAva bageya lakaSx‘Nadalilx niMtideyeM‘bu‘da‘nunx sAmAn
+ayx‘vAgi elalxrigU man‘avarike mAD‘abahudeMdu
+ []
+
+
+Overfull \hbox (6.60123pt too wide) in paragraph at lines 300--301
+[]\OT1/ndi/m/n/10.95 AdadxriMda-pArxciVnAyaRmahaSiRgaLa sanAtanavAda BAr‘a‘tiVy
+a saM‘sakxqqti, nA‘garikate matutx adakakxnu‘
+ []
+
+
+Overfull \hbox (2.32951pt too wide) in paragraph at lines 300--301
+\OT1/ndi/m/n/10.95 gu‘NavAda saM‘sakxqqta BASe ivu‘gaLa ad‘hayxyanadalilx, oMdu
+ bageya parxy‘oV‘gav‘i‘jAc‘nx‘nadiMda kU‘Dida saMvid‘
+ []
+
+
+Overfull \hbox (2.74954pt too wide) in paragraph at lines 300--301
+\OT1/ndi/m/n/10.95 hAna aM‘dare-viSaya-‘parxy‘oVga matutx anuBav‘a‘gaLa sAma‘ra
+sayx-sAmaM‘jasayx‘gaLa‘nunx kA‘pADuva saMvid‘
+ []
+
+
+Overfull \hbox (11.29247pt too wide) in paragraph at lines 300--301
+\OT1/ndi/m/n/10.95 hAna‘va‘nunx hoMdirabeVkAdudeV itara vishavxvi‘dAyxlaya‘gaLi
+giMta saM‘sakxqqta vishavxvi‘dAyxlayakikxrabeVkAda veYshiSaTxyX. 
+ []
+
+[23]
+Overfull \hbox (9.66777pt too wide) in paragraph at lines 317--319
+\OT1/ndi/m/n/10.95 suhokAkxgi hoMdikoMDiruva A para‘m‘aguriya‘nunx sAd‘hisalu v
+iSaya-‘parxy‘oV‘ga-anuBav‘a‘gaLalilx paras‘
+ []
+
+
+Overfull \hbox (7.89832pt too wide) in paragraph at lines 317--319
+\OT1/ndi/m/n/10.95 goMDa elAlx videyx‘gaLa ad‘hayxyanaveM‘budu susaM‘sakxqq‘tav
+Ada ASaRsaM‘parx‘dAyavoM‘dariMda mAtarx mADalu
+ []
+
+
+Overfull \hbox (5.22964pt too wide) in paragraph at lines 322--324
+[]\OT1/ndi/m/n/10.95 vidAyxparxvataRkarAda QuSi‘gaLeV, vi‘dAyxd‘hayxyanada sAPa
+layx-veY‘Palayx‘gaLa‘nunx viveV‘cane mADu‘tAtx- `veVda‘
+ []
+
+
+Underfull \vbox (badness 6775) has occurred while \output is active []
+
+ [24]
+Overfull \hbox (34.71236pt too wide) in paragraph at lines 332--333
+\OT1/ndi/m/n/10.95 pA‘pa‘gaLa‘nenxlAlx odari koM‘Da‘vanAgi duHKA‘tiV‘tavAda ne‘
+leya‘nunx-‘muk‘itxd‘hAma‘va‘nunx hoM‘du‘vanu.) idaraMteyeV
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 353--356
+[][] 
+ []
+
+
+Overfull \hbox (3.17465pt too wide) in paragraph at lines 358--359
+[]\OT1/ndi/m/n/10.95 eMdu tiLisiru‘vaMte, yAva naTarA‘jarA‘jana anu‘garx‘ha‘va‘
+nunx sanakAdi ma‘haSiR‘gaLu paD‘e‘dukoM‘
+ []
+
+
+Overfull \hbox (6.77461pt too wide) in paragraph at lines 358--359
+\OT1/ndi/m/n/10.95 Agu‘vu‘doV adu iMdu keV‘vala pa‘dAvaqtitxy‘iMdAguva kaMThash
+oVSaNadalilx pa‘yaRvasAnagoMDu
+ []
+
+
+Overfull \hbox (7.44737pt too wide) in paragraph at lines 358--359
+\OT1/ndi/m/n/10.95 `maraNAM‘toV vAy‘hxd‘hivAyxRkaraNamf' eMdu adakekx apayasha‘
+susx baru‘vaM‘tAdudu heVge yoV‘
+ []
+
+[25]
+Overfull \hbox (22.55902pt too wide) in paragraph at lines 360--361
+[]\OT1/ndi/m/n/10.95 `padAthARnAM tatatxvX‘jAc‘nx‘nAn‘inxsheshxrXVyasAd‘higamaH
+, sAd‘hamaRyx veY‘d‘hamAyxR‘BAyxM tatatxvX jAc‘nx‘nAn‘inxsheshxrXVyasamf'
+ []
+
+
+Overfull \hbox (7.80756pt too wide) in paragraph at lines 360--361
+\OT1/ndi/m/n/10.95 eMde‘lAlx ho‘r‘aTa shAsatxrX‘gaLa (nAyxya-veY‘sheVSika) ad‘h
+ayxyanavu nisheshxrXVyasad‘eDege oyuyxvude‘VnAdarU
+ []
+
+
+Overfull \hbox (3.05438pt too wide) in paragraph at lines 381--382
+[]\OT1/ndi/m/n/10.95 oMdu nadiya Aceya daDa talu‘pabeVkeMdu ho‘r‘aTa‘vanige mad
+‘heyx aDaDxbaMdiruva nadiya‘nunx dATalu
+ []
+
+
+Overfull \hbox (7.26895pt too wide) in paragraph at lines 388--389
+[]\OT1/ndi/m/n/10.95 jiVvanadalilxya shoVka‘va‘nunx dATa‘lA‘ga‘di‘dadxre veV‘da
+shAsatxrX‘gaLa ad‘hayxyanadiM‘dAdarU lABaveVnu? ida‘
+ []
+
+[26]
+Overfull \hbox (13.64851pt too wide) in paragraph at lines 403--404
+[]\OT1/ndi/m/n/10.95 AyaRBAratiVya-saMsakxqqti matutx nA‘garikate‘gaLige hoMdik
+oLuLx‘vaM‘taha rA‘SiTxrXVya jiV‘vada saMvid‘
+ []
+
+
+Overfull \hbox (1.50722pt too wide) in paragraph at lines 405--406
+[]\OT1/ndi/m/n/10.95 vidayxthiRgaLa vay‘oVd‘hamaR, manoVd‘hamaR, de‘Vhad‘hamaR,
+ Ad‘hu‘nika sAmA‘jika parisithx‘ti‘gaLu matutx
+ []
+
+
+Overfull \hbox (15.73785pt too wide) in paragraph at lines 413--414
+[]\OT1/ndi/m/n/10.95 keVvala na‘mamx parxde‘Vshadalilx mAtarx‘valalxdeV, elAlx 
+vishavxvi‘dAyxlaya‘gaLalUlx matutx mAd‘hayxmika shAle(sekeMDari
+ []
+
+
+Overfull \hbox (3.07524pt too wide) in paragraph at lines 421--422
+\OT1/ndi/m/n/10.95 jikavada parisithx‘ti‘gaLa‘nunx parishiV‘lisi mAd‘hayxmika s
+hAle‘gaLalilx (sekeM‘DarisUkxlfsx) avar‘avara mAtarxBASe,
+ []
+
+
+Overfull \hbox (1.91766pt too wide) in paragraph at lines 427--428
+\OT1/ndi/m/n/10.95 kaM‘DubaMdiru‘vu‘dariMda sanAtanA‘yaRBAr‘a‘tiVyavAda saM‘sak
+xqqti-‘nA‘garikate matutx saM‘sakxqqta BASe
+ []
+
+
+Overfull \hbox (1.32217pt too wide) in paragraph at lines 427--428
+\OT1/ndi/m/n/10.95 aBAyxsa‘va‘nunx mADalu apeVk‘isx‘su‘vavaru yAruM‘ToV aMthava
+ri‘gAgi, vishavxvi‘dAyxlaya‘gaLa pAThana
+ []
+
+[27]
+Overfull \hbox (1.87405pt too wide) in paragraph at lines 436--437
+[]\OT1/ndi/m/n/10.95 pAliV-pArxkaqta sAhi‘tayx‘va‘nunx mAd‘hayxmika shAle‘gaLal
+ilx ad‘hayxyana mADis‘uva karx‘mavu avashayxkavalalxveMdeV
+ []
+
+
+Overfull \hbox (24.14833pt too wide) in paragraph at lines 436--437
+\OT1/ndi/m/n/10.95 na‘m‘age toVru‘tatxde. apeVk‘iSx‘su‘vavarige mAtarx vishavxv
+i‘dAyxlaya‘p‘AThakarx‘madalilx adara aBAyxsa swka‘yaRvananxLavaDis‘
+ []
+
+
+Overfull \hbox (7.91432pt too wide) in paragraph at lines 443--446
+\OT1/ndi/m/n/10.95 shabadxshAsatxrX (nirukatx, shikASxshAsatxrX, vividha saM‘pa
+rx‘dAyada vivid‘havAda aM‘ga‘ga‘LoDagU‘Dida vAyxkaraNado‘
+ []
+
+
+Overfull \hbox (6.77032pt too wide) in paragraph at lines 443--446
+\OT1/ndi/m/n/10.95 Dane) 3) alaMkArashAsatxrX, 4) dashaR‘na‘gaLu-‘pArx‘ciV‘na-‘
+na‘viVna nAyxya‘gaLu, veY‘sheVSika, sAMKayx yoV‘
+ []
+
+
+Overfull \hbox (23.40456pt too wide) in paragraph at lines 447--448
+\OT1/ndi/m/n/10.95 hosa garxMtha‘gaLa racaneyA‘galiV ilalxdeV ava‘natiya hAdi h
+iDiyalu, mUla kAraNaveM‘dare-shAsAtxrXd‘
+ []
+
+[28]
+Overfull \hbox (29.82935pt too wide) in paragraph at lines 480--481
+[]\OT1/ndi/m/n/10.95 (18-Di) saM‘sakxqq‘ta-ma‘hAvi‘dAyxlaya‘gaLalilxyU pAThashA
+le‘gaLalilxyU pArx‘ciVna saM‘parx‘dAyAnusAriyAda
+ []
+
+
+Overfull \hbox (5.38872pt too wide) in paragraph at lines 485--486
+[]\OT1/ndi/m/n/10.95 hiMdugaLa (BAr‘a‘tiVyara) dhamaR‘dAya matutx deV‘vasavx‘ti
+txna saM‘rakaSxNe‘gAgi vayx‘vasAthx‘pi‘tavAda sakAR‘
+ []
+
+[29]
+Overfull \hbox (7.7312pt too wide) in paragraph at lines 496--497
+\OT1/ndi/m/n/10.95 hayxyanadiMda saM‘sakxqq‘tavAgabeVkeM‘bu‘da‘nunx etitx heV‘L
+u‘titxde. I sanAtana saM‘parx‘dAyada rakaSxNeya viSayadalilx
+ []
+
+
+Overfull \hbox (9.53868pt too wide) in paragraph at lines 500--501
+[]\OT1/ndi/m/n/10.95 apAtarxgaLalilx videyxya‘nunx viniy‘oVgisu‘vu‘dariMda vi‘d
+AyxsaM‘parx‘dAyavu viceCxVda hoM‘du‘vaM‘tAgutatxde. 
+ []
+
+[30]
+Overfull \hbox (6.76979pt too wide) in paragraph at lines 533--534
+[]\OT1/ndi/m/n/10.95 vidAyxrUpiNiyAda deVviyu barx‘hamx‘jAc‘nx‘na‘pUNaR‘nAda bA
+rx‘hamx‘Nanalilxge baMdu pArx‘thiR‘sikoM‘DaLu-‘
+ []
+
+
+Overfull \hbox (21.32498pt too wide) in paragraph at lines 533--534
+\OT1/ndi/m/n/10.95 nananx‘nunx goV‘payx‘vAgi‘TuTx rak‘iSxsu! ni‘nage nid‘hiyaMt
+idudx-akaSXyaLAgidudx rakaSxkiyAgu‘venu. asUyALu,
+ []
+
+
+Overfull \hbox (22.69444pt too wide) in paragraph at lines 533--534
+\OT1/ndi/m/n/10.95 ka‘p‘aTi aMtabARhayxshuci‘tavxniV‘nanu iMtha‘vanige nananx‘n
+unx heVLabAradu. Aga nAnu ni‘nanxlilx niduRHKananAnxgi
+ []
+
+
+Overfull \hbox (4.52965pt too wide) in paragraph at lines 535--536
+[]\OT1/ndi/m/n/10.95 yAva gu‘ruvu tirxkALadalilx eMdu su‘LALx‘gada- ni‘tayxsa‘t
+ayx‘vAda (jAc‘nx‘na‘mayavAda-‘parx‘Nava‘mayavAda
+ []
+
+
+Overfull \hbox (4.46208pt too wide) in paragraph at lines 535--536
+\OT1/ndi/m/n/10.95 (jAc‘nx‘na‘janaka-‘jAc‘nx‘na‘jananiV eMdu) BAv‘isi daqD‘han‘
+ishacxyakekx barabeVku. aMtha‘vanige (gu‘ru‘vige) eMthA
+ []
+
+
+Overfull \hbox (2.79309pt too wide) in paragraph at lines 537--538
+\OT1/ndi/m/n/10.95 nunx (gu‘patxM‘ru‘vanf) (tirxkaraNa‘gaL‘iM‘dalU) vAkn‘mx‘naH
+ kAya‘gaL‘iMda Adarisu‘vudi‘lalxvo, (pirxVti-Bak‘
+ []
+
+
+Overfull \hbox (1.32411pt too wide) in paragraph at lines 539--540
+[]\OT1/ndi/m/n/10.95 o! barx‘hamx‘jAc‘nxniyAda bArx‘hamx‘NaneV ! niVnu yA‘vana‘
+nunx `shu‘ci-sAvad‘hAna-meVd‘hAv‘i-barx‘hamxniSeThxyu‘
+ []
+
+
+Overfull \hbox (6.58923pt too wide) in paragraph at lines 545--546
+\OT1/ndi/m/n/10.95 dhamaR-‘dashaR‘na-i‘ti‘hAsa-pu‘rANakArara Ashaya matutx guri
+‘gaLige saM‘baMd‘hisidaMti‘lalx‘vA‘give eM‘
+ []
+
+
+Overfull \hbox (6.9242pt too wide) in paragraph at lines 550--551
+[]\OT1/ndi/m/n/10.95 `itihAsa-purANa-dhamaR-dashaRna' ivu‘gaLige‘lAlx parx‘vata
+RkarAda ma‘haSiR‘gaLa Ashaya‘va‘nUnx lakaSXyX‘
+ []
+
+[31]
+Overfull \hbox (1.8148pt too wide) in paragraph at lines 575--576
+\OT1/ndi/m/n/10.95 bititxda BUmi Bititxya citarx‘gaLu. ave‘lalx‘va‘nUnx pArad‘h
+ashaRka matutx dU‘radashaRkavAda QuSi daqSiTxya
+ []
+
+
+Overfull \hbox (32.70856pt too wide) in paragraph at lines 585--586
+\OT1/ndi/m/n/10.95 yaRkAkxgi mAtarx ma‘hAvi‘dAyxlaya‘gaLalUlx vishavxvi‘dAyxlay
+a‘gaLalUlx A bageya aBAyxsakekx anukUlavodag‘
+ []
+
+[32]
+Overfull \hbox (9.71461pt too wide) in paragraph at lines 591--592
+[]\OT1/ndi/m/n/10.95 saMsakxqqta vi‘dAyx‘thiR‘gaLu tamamx aBi‘pArxya‘va‘nunx sa
+Mkakxqqta BASeyalelxV sapxSaTx‘vAgi hor‘ageDa‘halu samath‘
+ []
+
+
+Overfull \hbox (4.76878pt too wide) in paragraph at lines 605--607
+\OT1/ndi/m/n/10.95 gaLalilx, elelxDeyalUlx keYgUMDiruva saM‘sakxqq‘tAd‘hayxyana
+karx‘ma‘va‘nunx shu‘dad‘hx‘goLisaleVbeVkeMdu toVru‘
+ []
+
+
+Overfull \hbox (4.13866pt too wide) in paragraph at lines 615--616
+\OT1/ndi/m/n/10.95 viyavarege vAyx‘pisiruva A parxy‘oV‘gashA‘leyalilx hokakx bu
+‘did‘hxyeMba gu‘dadxliy‘iMda parxkaqtiyeMba gaNiya‘
+ []
+
+
+Overfull \hbox (30.09932pt too wide) in paragraph at lines 615--616
+\OT1/ndi/m/n/10.95 I vid‘hAna‘va‘nunx toredu, `hara‘pA‘px-‘mo‘heMjoV‘dAroV' mod
+al‘Ada parxde‘Vsha BAga‘gaLAnanxgedu maDake-kuDikegaLa
+ []
+
+
+Overfull \hbox (16.44357pt too wide) in paragraph at lines 615--616
+\OT1/ndi/m/n/10.95 maDakegaLa‘nenxV nAvu jiV‘vanakukx‘pay‘oVgisikoM‘Dare, nAvu 
+avaraM‘tAgu‘veveV? athavA avaraM‘tAgiyAdarU
+ []
+
+[33]
+Overfull \hbox (6.4018pt too wide) in paragraph at lines 619--620
+\OT1/ndi/m/n/10.95 jiV‘vanavu daDamu‘TaTxdu. AdadxriMda ASaRparxy‘oVga vi‘jAc‘n
+xna saM‘pananxrAdaMtaha saMshoVd‘hakara Avashayxkateyu
+ []
+
+
+Overfull \hbox (17.07343pt too wide) in paragraph at lines 625--626
+[]\OT1/ndi/m/n/10.95 I viBA‘gada viSaya‘gaLe‘lAlx Ad‘hu‘nikavAda rA‘janeYtika-s
+AmA‘jika-AthiRkavAda parisithx‘ti‘gaLa‘nunx avalaM‘
+ []
+
+
+Overfull \hbox (10.70906pt too wide) in paragraph at lines 625--626
+\OT1/ndi/m/n/10.95 bisiru‘tatxveyAdadxriMda keVM‘dArx‘DaL‘i‘tavU matutx pArxde‘
+VshikADaL‘ita‘gaLU, vi‘dAyx‘tatatxvX‘vananxrita parx‘tinid‘hi‘gaLa niy‘
+ []
+
+
+Overfull \hbox (12.31485pt too wide) in paragraph at lines 625--626
+\OT1/ndi/m/n/10.95 oV‘gaveV‘paR‘Disi, A mU‘laka AyA parisithx‘ti‘gaLa bagege ya
+thAthaR‘vAda par‘icaya mADikoMDu, sanAtanA‘
+ []
+
+
+Overfull \hbox (10.98137pt too wide) in paragraph at lines 629--631
+\OT1/ndi/m/n/10.95 yAva riVti badAd‘hx‘dararAgi‘dadxreM‘bu‘dakekx nidashaR‘navo
+M‘da‘nunx gaman‘isu‘vu‘dAdare, gu‘ruku‘ladalilx vi‘dAyxBAyxsa‘
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 635--638
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 643--646
+[] 
+ []
+
+
+Overfull \hbox (12.29712pt too wide) in paragraph at lines 648--649
+[]\OT1/ndi/m/n/10.95 (ninanx gu‘ru‘vAda ma‘haSiRyu kAya-‘vAk‘f-‘mana‘susx‘gaL‘i
+Mda iM‘darxna dheY‘yaRva‘nUnx cuyx‘tigoLisu‘
+ []
+
+
+Overfull \hbox (1.34753pt too wide) in paragraph at lines 648--649
+\OT1/ndi/m/n/10.95 vaM‘taha shashavx‘tavAda mUru bageyAda yAva yAva tapasasx‘nu
+nx saM‘pA‘disidanoV, A tapasatxrXyavu
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 650--653
+[] 
+ []
+
+
+Overfull \hbox (5.9064pt too wide) in paragraph at lines 655--656
+\OT1/ndi/m/n/10.95 sharxma‘hAriyAda Asharxma vaqkaSX‘gaLige biru‘gAL‘i-kADug‘ic
+ucx mi‘dalAdu‘vu‘gaLa aDiDx AtaMk‘a‘gaLAvuvU
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 657--660
+[] 
+ []
+
+
+Overfull \hbox (6.99463pt too wide) in paragraph at lines 662--663
+[]\OT1/ndi/m/n/10.95 (munigaLu Asharxma jiVvi‘gaL‘Ada jiMkegaLA, sa‘dayxH parx‘
+sU‘tavAda mari‘gaLa‘nunx maDi‘lalelxV biTuTxkoMDu
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 664--669
+[] 
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 673--676
+[] 
+ []
+
+[35]
+Overfull \hbox (15.13487pt too wide) in paragraph at lines 678--679
+[]\OT1/ndi/m/n/10.95 (AyAkAlavisheVSagaLalilx baM‘daMtaha atithi‘gaLige sama‘pa
+RNiVyavAda BAgavu‘LaLx‘dUdx, ni‘mamx (araNayx‘
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 680--685
+[] 
+ []
+
+[36]
+Overfull \hbox (15.17381pt too wide) in paragraph at lines 807--808
+[]\OT1/ndi/m/n/10.95 bahavxqqcasherxVSaThxriMda pada-karxma‘p‘ATha‘ga‘Lo‘DaneV 
+utakxqqSaTx‘vAgi ucacxrisalapx‘TaTx Qukn‘mxM‘tarx‘gaLa‘nunx manuja sherxVSaThxn
+u,
+ []
+
+
+Overfull \hbox (3.32935pt too wide) in paragraph at lines 807--808
+\OT1/ndi/m/n/10.95 jac‘nxvideyxya aMga saM‘patitxyananxri‘tavarU, ya‘ju‘maRM‘ta
+rx-‘tatatxvX‘jac‘nxrU AdavariMda Asharx‘mavu shoVBitavAgi‘
+ []
+
+
+Overfull \hbox (15.9819pt too wide) in paragraph at lines 807--808
+\OT1/ndi/m/n/10.95 QuSi‘va‘yaRriMda A Asharx‘mavu Aga sobagu goMDi‘tutx. athava
+RveV‘dadalilx niSANx‘tarA‘davarU, sAmUhikav‘
+ []
+
+[37] [38]
+Overfull \hbox (13.2495pt too wide) in paragraph at lines 851--852
+\OT1/ndi/m/n/10.95 ASaRparxkAshada be‘Lak‘i‘nalilx matetx saM‘sakxqqta vi‘dAyxB
+Ayxsa‘va‘nenxV‘paR‘Dis‘abeVku. `aMd‘heyxneYva niVya‘mAnA yathAMd‘
+ []
+
+
+Overfull \hbox (8.27545pt too wide) in paragraph at lines 851--852
+\OT1/ndi/m/n/10.95 hAH' eM‘baM‘tAda aMdha paraM‘parey‘iMda meVle‘dudx, ` na‘SoT
+xV moVhaH samxqqti‘laR‘bAdhx tavx‘tapxrXsAdAnamxyA³cuyxta'
+ []
+
+[39]) (./src/chapter3.tex [40]
+adhAyxya 3.
+
+Overfull \hbox (6.56786pt too wide) in paragraph at lines 15--16
+\OT1/ndi/m/n/10.95 ba‘Lika matAsxyX‘vatAradiMda ho‘r‘ataM‘danoV, aM‘taha Bagava
+M‘tanige nananx pArx‘Na‘gaLa‘nunx bagigxsi na‘masakxrisutetxVne.
+ []
+
+
+Overfull \hbox (19.35254pt too wide) in paragraph at lines 19--20
+[]\OT1/ndi/m/n/10.95 jAcnxna biV‘jada Ashayakekx anu‘gu‘Nav‘Agi vikAsav‘Agu‘vaM
+te (tananx) jAc‘nx‘na‘va‘nunx gAy‘atirxVdeVviya gaBaRdalilx‘
+ []
+
+[41
+
+]
+Overfull \hbox (3.2597pt too wide) in paragraph at lines 48--49
+[]\OT1/ndi/m/n/10.95 hAgeyeV A Ad‘hAyx‘tamx‘di‘V‘pada parxkAsha‘va‘nunx ni‘mamx
+ aMd‘hakArada BU‘miyalilx celalxbeVkAdare, adakokxMdu
+ []
+
+
+Overfull \hbox (20.19453pt too wide) in paragraph at lines 52--53
+\OT1/ndi/m/n/10.95 vateyAda ivaL‘u-BAr‘a‘tiV deVviyU ivana‘nunx Al‘iM‘gana mADi
+koMDiru‘vudU, ivanU (hayavadananU)
+ []
+
+
+Overfull \hbox (1.22961pt too wide) in paragraph at lines 52--53
+\OT1/ndi/m/n/10.95 mADikoMDiruva A mAteya aBi‘pArxyakUkx, A mAteya haq‘dayada k
+aDege man‘ako‘TaTx A hayavadanana
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.42854pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 42 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[42]
+Overfull \hbox (16.35541pt too wide) in paragraph at lines 56--57
+\OT1/ndi/m/n/10.95 jiVvi‘gaLa‘nunx kADuva jarA-ruk‘f-Baya‘gaLeMba Ad‘hi-‘vAyxd‘
+hi‘gaLer‘aDa‘nUnx par‘i‘harisikoLuLxva salu‘vAgi BagavaM‘
+ []
+
+
+Overfull \hbox (7.76082pt too wide) in paragraph at lines 64--65
+[]\OT1/ndi/m/n/10.95 `BagavaMtana man‘a‘susx, BagavaM‘tana mAtu, BagavaM‘tana k
+Aya' elalxvU AdAga mAtarx, avanu loVkadalilx
+ []
+
+
+Overfull \hbox (1.86073pt too wide) in paragraph at lines 66--67
+\OT1/ndi/m/n/10.95 keY‘gaLa‘nunx dATi baMdiru‘vu‘dariMda sAMka‘yaRkokxLa‘gAgide
+. adariMda punaH ori‘ji‘nalf Agi AviSAkxraveV‘
+ []
+
+
+Overfull \hbox (12.11388pt too wide) in paragraph at lines 66--67
+\OT1/ndi/m/n/10.95 paRD‘abeVk‘Agide. idar‘alilx ori‘ji‘nalf Enu? eM‘bu‘da‘nunx 
+dashaRna mADikoMDiruva matutx ni‘mamx joteyalelxV
+ []
+
+
+Overfull \hbox (3.29459pt too wide) in paragraph at lines 66--67
+\OT1/ndi/m/n/10.95 ADu‘titxruva jAc‘nx‘navaq‘dad‘hxra saM‘gadiM‘daleV adu hora‘
+bidudx vayxkatx‘vAgabeVk‘Agide. AdadxriM‘daleV ob‘a‘bxru heVLu‘
+ []
+
+[43]
+Overfull \hbox (8.90778pt too wide) in paragraph at lines 74--75
+\OT1/ndi/m/n/10.95 pArxya‘va‘nenxV Eke PAloV mAD‘abAradu?, haq‘dayavuMTu, adake
+kx nAlukx bAg‘ilide eMdeV Eke heVLabeVku?
+ []
+
+
+Overfull \hbox (6.68924pt too wide) in paragraph at lines 74--75
+\OT1/ndi/m/n/10.95 Nav‘Agi tatasx‘hitavAda sAhi‘tayx‘vAgi be‘LeyabeVkAdare, maM
+di‘rada mud‘erxyalilx aLava‘Disiruva pArx‘thaRnArU‘
+ []
+
+
+Overfull \hbox (11.61073pt too wide) in paragraph at lines 81--82
+[]\OT1/ndi/m/n/10.95 eMba sholxVkada aBi‘pArxyavu heVgideyeM‘bu‘da‘nunx tege‘du
+ko‘LaLxbeVku. hAge tege‘dukoMDAga, `upade‘
+ []
+
+
+Overfull \hbox (3.69763pt too wide) in paragraph at lines 81--82
+\OT1/ndi/m/n/10.95 taraM‘gakUkx bahi‘raM‘gakUkx sArU‘payxvirabeVku. elilxyavare
+ge tirxkaraNasArU‘payx baru‘vudi‘lalxvoV alilxyavarege
+ []
+
+
+Overfull \hbox (3.39754pt too wide) in paragraph at lines 93--94
+\OT1/ndi/m/n/10.95 yArige yAva yAva aMshadalalxBiru‘ciyoV adaradar‘alilx avana‘
+vana‘nunx tarabeVtu mADi, `apApx niVnida‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.62668pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 44 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[44]
+Overfull \hbox (14.14827pt too wide) in paragraph at lines 110--111
+[]\OT1/ndi/m/n/10.95 eMdu tananx Atamx‘na‘nenxV tAnAgiyeV ko‘TuTx saqSiTxsikoMD
+u tananxdeV Ada vayxk‘itx‘tavx‘do‘DaneV tAnu mAtanAD‘
+ []
+
+[45]
+Overfull \hbox (7.80699pt too wide) in paragraph at lines 139--140
+\OT1/ndi/m/n/10.95 tege‘dukoMDu mar‘avAda I parx‘paM‘cavu be‘Leyu‘titxde. ada‘r
+adeV Ada oMdu riVtiyide - maraBAvadalilxru‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.94629pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 46 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[46]
+Overfull \hbox (9.11507pt too wide) in paragraph at lines 158--159
+[]\OT1/ndi/m/n/10.95 yoVgadalilx oLage kaM‘DukoMDa viSayavAda ba‘Lika, hor‘ag‘i
+na jiV‘vanavU pavi‘tarx‘tar‘avAguva riVtiyalilx
+ []
+
+[47]
+Overfull \hbox (1.4439pt too wide) in paragraph at lines 181--182
+[]\OT1/ndi/m/n/10.95 nAnu yAva ta‘La‘hadiya meVle I mAtu‘gaLanAnx‘Du‘titxd‘edxV
+neM‘dare - iSuTx keSxV‘tarx‘gaLa‘nunx hAdu hor‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.29703pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 48 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[48]
+Overfull \hbox (8.56032pt too wide) in paragraph at lines 202--203
+[]\OT1/ndi/m/n/10.95 (elilxyavarevige BU‘miyalilx gir‘i-‘nadi‘gaLiru‘vu‘voV ali
+lxyavaregU rA‘mAyaNada katheyu loVk‘
+ []
+
+
+Overfull \hbox (5.79314pt too wide) in paragraph at lines 202--203
+\OT1/ndi/m/n/10.95 a‘gaLalilx parx‘cAradalilxru‘vudu) eMdu heVLiru‘vaMte ililx 
+beLeda sAhi‘tayxvu AcaM‘dArxkaR‘tArakav‘Agi irabeVku.
+ []
+
+
+Overfull \hbox (26.31245pt too wide) in paragraph at lines 212--213
+\OT1/ndi/m/n/10.95 TAguva badalu bAd‘hakateyuM‘TAgu‘vaM‘tAgabAradu. (moV‘dakate
+-saM‘toVSako‘Du‘vudu) `moV‘dakate-bAd‘
+ []
+
+[49]
+Overfull \hbox (9.75842pt too wide) in paragraph at lines 234--235
+[]\OT1/ndi/m/n/10.95 manuSayxnu huTiTxyAda ba‘Lika yAvu‘dAdaroMdu ceVSeTxya‘nun
+x mADu‘tatxleV iru‘tAtxne. A ceVSeTxyU
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.49265pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 50 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[50]
+Overfull \hbox (1.56284pt too wide) in paragraph at lines 256--257
+\OT1/ndi/m/n/10.95 haya‘haM‘saparoV‘jasaH Baga‘va‘toV joyxVti‘nAR‘rAyaNasayx di
+‘vayx‘pa‘dayu‘galeV pArx‘NAnf parx‘NA‘mayAmaH
+ []
+
+
+Overfull \hbox (19.54773pt too wide) in paragraph at lines 262--263
+\OT1/ndi/m/n/10.95 savaRvi‘dAyx‘mU‘la‘joyxVtiH samiVkaSxyX BArataBaratAH AnaMd‘
+aBar‘i‘tAH vayamf asamx‘cacx‘tuSaSxSiTxvi‘dAyxM‘taniRhiteVna
+ []
+
+
+Overfull \hbox (0.3676pt too wide) in paragraph at lines 262--263
+\OT1/ndi/m/n/10.95 teVna jAc‘nx‘na-vi‘jAc‘nx‘na‘maya-ma‘hA‘haya‘haM‘sa-joyxVti‘
+sas‘x‘tXM‘Ba-‘mU‘ladi‘VpeVna vishavx vi‘jAc‘nxna maMdi‘reV di‘
+ []
+
+
+Overfull \hbox (0.45775pt too wide) in paragraph at lines 272--273
+[]\OT1/ndi/m/n/10.95 pArxNamadhukaravu nATayx BAr‘a‘tiVya aDi‘dAvare‘gaLalilxya
+ mad‘hu‘vanAnxsAvx‘disi tuMbu jiV‘vana mAD‘
+ []
+
+
+Overfull \hbox (3.98875pt too wide) in paragraph at lines 274--275
+[]\OT1/ndi/m/n/10.95 `OM ma‘hAm‘a‘sitxSakx‘jAc‘nx‘nav‘i‘jAc‘nx‘na‘maMdi‘reV tir
+xd‘hAm‘abarx‘hamx‘mA‘gaR‘tatatxvX soV‘pAnav‘ishavxraMgAM‘bu‘jeV haM‘
+ []
+
+
+Overfull \hbox (0.1539pt too wide) in paragraph at lines 274--275
+\OT1/ndi/m/n/10.95 NashakAtxyXH barx‘hamxBAva - joyxVti‘nARda - vi‘jAc‘nx‘navip
+aM‘cikAM parx‘paM‘cayx AtamxshirxyaM vAyx‘tanAvx‘nAyAH vishavxshi‘
+ []
+
+
+Overfull \hbox (4.87361pt too wide) in paragraph at lines 274--275
+\OT1/ndi/m/n/10.95 lapxvid‘hAna‘jAc‘nxyAH asamx‘namxMdi‘rama‘hAmaM‘gal‘adi‘V‘pa
+reVKAyAH vi‘dAyxd‘hi‘rA‘jAc‘nxyXH ma‘hAnATayxBAratAyxH di‘
+ []
+
+[51]
+Overfull \hbox (1.92613pt too wide) in paragraph at lines 297--298
+\OT1/ndi/m/n/10.95 AgiyU Ad‘hAyx‘timxkav‘AgiyU Ad‘hAr‘avAda jA‘gavu I loVka‘va‘
+nunx vikAs‘apa‘Disi, kAl‘aBU‘ta-kirx‘yArU‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.5584pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 52 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[52]
+Overfull \hbox (23.51526pt too wide) in paragraph at lines 334--335
+[]\OT1/ndi/m/n/10.95 (akAra-ukAra-makAra-biMdu-nAda-kalA-kalAtiVta-tatapxragaLe
+Mba eMTu aM‘ga‘gaLu‘LaLx‘dUdx, vishavx-teY‘
+ []
+
+
+Overfull \hbox (7.88686pt too wide) in paragraph at lines 334--335
+\OT1/ndi/m/n/10.95 para, athavA icACx-kirxyA-‘jAc‘nx‘nashak‘itx eMba mUru sAthx
+‘na‘gaLu‘LaLx‘dUdx, barx‘hamx-vi‘SuNx-ru‘darx-Ishavxra-sadAshiv‘
+ []
+
+
+Overfull \hbox (4.96463pt too wide) in paragraph at lines 355--356
+\OT1/ndi/m/n/10.95 ruSAthaR‘gaLigU kAraNaLAgu‘venu. asUyA‘paranU ka‘p‘aTiyU ash
+u‘ciyU Ada‘vanige nananx‘nunx koD‘
+ []
+
+[53]
+Overfull \hbox (13.1748pt too wide) in paragraph at lines 388--389
+[]\OT1/ndi/m/n/10.95 videyxyanunx kaliyaloV‘suga beVkAda ke‘lasagaLa‘nunx mADu‘
+vu‘dakAkxgi maMdi‘raviru‘vu‘dariMda, videyxyeM‘
+ []
+
+
+Overfull \hbox (0.15607pt too wide) in paragraph at lines 397--398
+\OT1/ndi/m/n/10.95 shAMta AtAmx' eM‘baMte shAMtid‘hAmadalilxruva Atamxnu. A Ata
+mxBAva‘va‘nunx sAvxd‘hiVna mADikoMDu adariMda
+ []
+
+
+Overfull \hbox (1.30273pt too wide) in paragraph at lines 397--398
+\OT1/ndi/m/n/10.95 savaR‘vAk‘namxyakUkx mUlavAda parx‘NavadalilxLidu naM‘tara v
+ideyxya‘nunx ho‘rakekx taru‘tAtxne. sepxY‘nalf kADiRnalilx
+ []
+
+
+Overfull \hbox (25.92873pt too wide) in paragraph at lines 416--417
+\OT1/ndi/m/n/10.95 tavAgi beLedu, tananx huTiTxna mU‘laka A AvaraNa rU‘pavAda u
+la‘bx‘va‘nunx tayxjisu‘vudu. AdadxriMda jananeVMdirxyavu
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.75653pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 54 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[54]
+Overfull \hbox (2.53238pt too wide) in paragraph at lines 425--426
+\OT1/ndi/m/n/10.95 AraMBa. shAsatxrX yoVniyAda, shAsatxrX‘gaLige‘lAlx Ad‘hAr‘av
+Ada tatatxvXvu tan‘age taDikeyA‘gatakakx nAda-savxra-akaSxra‘
+ []
+
+[55]
+Overfull \hbox (30.10547pt too wide) in paragraph at lines 503--504
+[]\OT1/ndi/m/n/10.95 eMdu AyaRmarAyxdeya‘nUnx va‘NAR‘sharxma savxrU‘pa‘va‘nUnx 
+nele‘goLisi tarxyiyu jiVvi‘gaLa‘nunx viSAdakokxLa‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.07614pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 56 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[56]
+Overfull \hbox (11.46283pt too wide) in paragraph at lines 528--529
+\OT1/ndi/m/n/10.95 pashu‘pAlane-‘vANi‘jayx' ivu‘gaL‘iMda do‘rakuva shuBavAda ih
+a‘jiV‘vana‘va‘nUnx, QugayxjusAsx‘ma‘gaLeMdu heVLalapx‘
+ []
+
+[57]
+Overfull \hbox (3.70995pt too wide) in paragraph at lines 609--610
+[]\OT1/ndi/m/n/10.95 eMdu. iMdirxya‘gaLigeV sAvx‘caCxM‘dayx ko‘TaTxre, avu tuMT
+a kudureyaMte tananxMte muMde sAgutatxdeyeV
+ []
+
+
+Overfull \hbox (3.03242pt too wide) in paragraph at lines 613--614
+[]\OT1/ndi/m/n/10.95 rAja-rAjayx-rASaTxrX-deVsha-viSaya-maMDala-janapada itAyxd
+i‘gaLa viSayadalilx yAva riVtiya kanesx‘
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 616--625
+[] 
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.42688pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 58 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[58]
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 636--646
+[] 
+ []
+
+
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+ [59]
+Overfull \hbox (3.11676pt too wide) in paragraph at lines 648--649
+[]\OT1/ndi/m/n/10.95 yAvudariMda, tirx‘va‘gaR‘rU‘pavAda aBuyx‘dayavU apava‘gaR 
+rU‘pavAda nisheshxrXVyasavU keYgUDu‘
+ []
+
+
+Overfull \hbox (3.39722pt too wide) in paragraph at lines 652--653
+\OT1/ndi/m/n/10.95 vaR‘NayxR, cAt‘urAsharx‘mayx ivu‘gaLa su‘vayx‘vasethx idudx,
+ dhAnayx-hi‘raNayx-‘pashu-k‘abibxNa modal‘Ada loVha,
+ []
+
+
+Overfull \hbox (3.84242pt too wide) in paragraph at lines 656--657
+\OT1/ndi/m/n/10.95 nunx samaq‘did‘hxyAgi ko‘TuTx rA‘jana haq‘daya‘va‘nunx sobag
+u‘goLuLx‘vaMte mAD‘abeVku-haSaRpUNaR‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.6824pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 60 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[60]
+Overfull \hbox (17.88411pt too wide) in paragraph at lines 661--662
+[]\OT1/ndi/m/n/10.95 itAyxdiyAgi jana‘pada‘guNa, jana‘padadoVSa, rA‘ja-rA‘jayx-
+rASaTxrX modal‘A‘davu‘gaLa bagegx sariyAda-jiV‘
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 668--681
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+Overfull \hbox (7.8638pt too wide) in paragraph at lines 685--686
+\OT1/ndi/m/n/10.95 bi‘TaTxre, niVri‘nalilx saNaNx miVnu‘gaLa‘nunx do‘DaDx miVnu
+‘gaLu tiMdu hAku‘vaMte, bal‘iSaThxrA‘davaru dubaR‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.74815pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 62 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[62]
+Overfull \hbox (17.40294pt too wide) in paragraph at lines 686--687
+\OT1/ndi/m/n/10.95 oLeLxya sa‘hAya paD‘edu daM‘Da‘va‘nunx nayana mAD‘abahudu. u
+L‘i‘davarige daMDaniVtiyu dakakxlAradu. 
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 695--701
+[] 
+ []
+
+[63]
+Overfull \hbox (17.44258pt too wide) in paragraph at lines 703--704
+[]\OT1/ndi/m/n/10.95 naMtara shU‘la‘pANiyAda ma‘hAdeV‘vanu savoVR‘takxqqSaTx‘vA
+gi ja‘gatatx‘nunx dharis‘a‘bal‘alx daM‘Da‘va‘nunx loVkad‘
+ []
+
+
+Overfull \hbox (5.20923pt too wide) in paragraph at lines 708--709
+[]\OT1/ndi/m/n/10.95 vidAyxdhideVvaneV daMDarU‘pavA‘giru‘vu‘dariMda vi‘dAyx‘may
+av‘Agi ada‘nunx kaliyabeVk‘Agu‘vudu. daMDa
+ []
+
+
+Overfull \hbox (14.16794pt too wide) in paragraph at lines 745--746
+[]\OT1/ndi/m/n/10.95 eMbudAgideyalAlx sAkASxtf ma‘hA‘pu‘ru‘SaneV - ya‘jac‘nx‘ma
+yanAda nArAyaNaneV daMDa rUpiyeMdu
+ []
+
+
+Overfull \hbox (10.42513pt too wide) in paragraph at lines 749--750
+\OT1/ndi/m/n/10.95 videyx‘gaLa‘nenxlAlx aBAyxsa mADuva modalu vi‘dAyx‘mU‘ladiMd
+a AraMBa mA‘Di‘dare sariyAda videyxyAgutatxde.
+ []
+
+
+Overfull \hbox (6.6014pt too wide) in paragraph at lines 753--754
+[]\OT1/ndi/m/n/10.95 niVvu yAva riV‘tiniVti‘gaLige oLa‘p‘aTuTx pATha‘parx‘va‘ca
+na‘va‘nunx mADu‘titxVri? eM‘dare `suSumAnx nADiy‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.94629pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 64 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[64]
+Overfull \hbox (16.83038pt too wide) in paragraph at lines 759--760
+[]\OT1/ndi/m/n/10.95 vidAyxsahAyanAgi BagavaM‘tanu loVka saqSiTx mADu‘tAtxne. A
+ videyxy‘iM‘daleV up‘asaMhAra mADikoLuLx‘
+ []
+
+
+Overfull \hbox (14.07642pt too wide) in paragraph at lines 759--760
+\OT1/ndi/m/n/10.95 tAtxneV‘pApx! idu-videyxyu, oLagin‘iMda ho‘rakUkx hor‘agin‘i
+Mda oLakUkx saM‘cAra mADalu anukUlavAgide.
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 774--785
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Overfull \hbox (6.58987pt too wide) in paragraph at lines 790--791
+\OT1/ndi/m/n/10.95 aBar‘i‘tarAgi Atamx‘gata pArx‘NarAgi un‘amx‘narAgi‘dadxroV, 
+savxyaM‘Bu‘vAda barx‘hamxvu veVda‘gaLa ad‘hayxyanav‘i‘lalxdeyU
+ []
+
+
+Overfull \hbox (7.92094pt too wide) in paragraph at lines 790--791
+\OT1/ndi/m/n/10.95 yAva QuSi‘gaLige tananx‘nunx tAneV parxkAsha‘pa‘DisikoM‘Du‘d
+ariMda mo‘TaTx‘modalu veV‘dAthaRvu parxkAshagoMDi‘
+ []
+
+
+Overfull \hbox (2.63365pt too wide) in paragraph at lines 792--793
+[]\OT1/ndi/m/n/10.95 aMtaha BArataBU‘miya matutx mAtaqBU‘miya aDige muDiyan‘inx
+‘TuTx avaLa samxraNey‘iMda muMde
+ []
+
+
+Overfull \hbox (10.31996pt too wide) in paragraph at lines 794--795
+[]\OT1/ndi/m/n/10.95 Ava ma‘haSiR‘gaLu tamamx Qutasa‘tayx‘jAc‘nx‘nadiMda paripU
+NaR manoV‘gatiya‘nunx hoMdi, tamamx mAtaqBU‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.2659pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 66 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[66]
+Overfull \hbox (15.9651pt too wide) in paragraph at lines 800--801
+\OT1/ndi/m/n/10.95 Ba-vikAsa-vi‘laya‘gaLa viSayakav‘Agi ad‘hayxyana mADi Ad‘hiB
+‘wtika-Ad‘hideYvika-Ad‘hAyx‘timxk‘a‘gaLalilxruva sUthxla-‘
+ []
+
+
+Overfull \hbox (16.46466pt too wide) in paragraph at lines 812--813
+\OT1/ndi/m/n/10.95 huTuTx‘vA‘galeV SaDe‘vxVSaTx‘na‘gaLU (ku‘la-‘goV‘tarx-‘jAti-
+‘va‘NaR-Asharx‘ma-rU‘pa‘gaLu) deV‘vaQuNa-QuSiQuNa-pi‘
+ []
+
+
+Overfull \hbox (20.80856pt too wide) in paragraph at lines 812--813
+\OT1/ndi/m/n/10.95 taqQuNa-‘manuSayxQuNa-BU‘taQuNa‘gaLU uM‘TAgutatxve. ivu‘gaLe
+‘lAlx iru‘vu‘dariMda ivu‘gaLa‘nenxlAlx tiVrisidare,
+ []
+
+
+Overfull \hbox (2.96823pt too wide) in paragraph at lines 816--817
+[]\OT1/ndi/m/n/10.95 iSuTxBAgavanenxlAlx man‘a‘sisxge taM‘dukoMDu oMdu sanAtanA
+‘yaR mA‘g‘a‘Rdalilx jiV‘vana mAD‘abeVkeMba
+ []
+
+[67]
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.61664pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 68 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[68]
+Overfull \hbox (0.86728pt too wide) in paragraph at lines 889--891
+\OT1/ndi/m/n/10.95 gaMgeyu hiM‘dakekxV hoV‘gali eM‘dare loVka‘jiVvige jAc‘nx‘na
+pi‘pAseyAdarU heVge iM‘gabeVku? hariyuva
+ []
+
+[69]
+Overfull \hbox (35.83781pt too wide) in paragraph at lines 896--901
+[]\OT1/ndi/m/n/10.95 hAgeyeV-parxkaqtiyalilxya yAvu‘danonxV jiV‘vanave‘lAlx mel
+ulx‘tatx melulx‘tatx idudxdeV Adare, I avashayxkavAda-ni‘
+ []
+
+
+Overfull \hbox (8.37529pt too wide) in paragraph at lines 909--912
+\OT1/ndi/m/n/10.95 BASeyu DeD‘flAyxMgevxV‘jaf Agi biDu‘vudu. av‘eraDU oM‘dakokx
+Mdu koDikoM‘Di‘dAdxge alilx leYpf-baduku
+ []
+
+
+Overfull \hbox (4.8581pt too wide) in paragraph at lines 919--922
+\OT1/ndi/m/n/10.95 dare-Atamx dhamaR-‘manoVd‘hamaR- iMdirxyad‘hamaR-de‘Vhad‘ham
+aR-de‘Vshad‘hamaR-loVkad‘hamaR-sa‘ha‘jad‘
+ []
+
+
+Overfull \hbox (3.99524pt too wide) in paragraph at lines 919--922
+\OT1/ndi/m/n/10.95 hamaR elalxvU irabeVku. ivu‘ga‘Lo‘Dane kUDikoMDu aMTikoMDu b
+aruva viSayav‘Agi‘dadxre sariyAda
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.81392pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 70 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[70]
+Overfull \hbox (4.3334pt too wide) in paragraph at lines 929--935
+\OT1/ndi/m/n/10.95 pada‘gaLa‘nunx keVL‘i‘dare bAy‘alilx EnAdarU ke‘lasa naDesut
+etx, udA‘ha‘ra‘Nege AM‘boDe-puLiy‘oV‘gare madalA
+ []
+
+
+Overfull \hbox (10.52263pt too wide) in paragraph at lines 929--935
+\OT1/ndi/m/n/10.95 da (shirxV veYSaNx‘vara maneyadu) pa‘dAthaR‘gaLa par‘icayavi
+ru‘vu‘dariMda AyA shabadx‘gaLa‘nunx keVL‘idAga iMdirxya‘
+ []
+
+[71]
+Overfull \hbox (26.12314pt too wide) in paragraph at lines 969--974
+\OT1/ndi/m/n/10.95 heVLabahudu. (hAge Kac‘i‘tavAgi gotitxlalxdeyU heVLa‘toDagu‘
+vu‘dAdare elilx enU beVkAdarU heVLabahudu).
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.87967pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 72 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[72] [73]
+Overfull \hbox (3.59537pt too wide) in paragraph at lines 1030--1032
+[]\OT1/ndi/m/n/10.95 `tirxdhA badad‘hxH|' eM‘dare-‘jAtAveV‘dAH, tanUna‘p‘Atf, a
+pAM‘na‘p‘Atf eMba mUru hesaru‘LaLx‘vanAgidudx
+ []
+
+
+Overfull \hbox (19.07947pt too wide) in paragraph at lines 1053--1056
+\OT1/ndi/m/n/10.95 Eva savARNi veV‘da-huTuTx‘vA‘galeV-‘vayxkatx‘nAgu‘vA‘galeV e
+lalx‘va‘nUnx tiLiy‘atakakx‘vanu. oLa‘gaDeya jAtaveVdAg‘
+ []
+
+
+Overfull \hbox (25.32736pt too wide) in paragraph at lines 1062--1064
+[]\OT1/ndi/m/n/10.95 inunx jAtaveV‘daneVMba ag‘inxyu ni‘jav‘AgiyU idadxneyeV? a
+M‘dare huDuki‘noVD‘abeVkAda aMTalaRkaSxyXkekx
+ []
+
+
+Overfull \hbox (36.97714pt too wide) in paragraph at lines 1067--1072
+[]\OT1/ndi/m/n/10.95 (hoMdikoLuLxvaMte) iSuTxvicAr‘avi‘lalxdeV EneVnoV vAyxKAyx
+na mADibiTuTx maMtArxthaRheVLideneMdukoMDare,
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.0778pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 74 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[74]
+Overfull \hbox (1.31828pt too wide) in paragraph at lines 1086--1087
+[]\OT1/ndi/m/n/10.95 maMtarxda athaR‘va‘nunx patetx hacucxva jADu yAvudeM‘dare-
+savxradiMda patetx ha‘cacxbahudu. (adu heVgeM‘
+ []
+
+
+Overfull \hbox (8.99934pt too wide) in paragraph at lines 1096--1101
+\OT1/ndi/m/n/10.95 cAcxraNeyalilx maM‘darx sAthxyiyalilx savxra‘va‘nunx heVLu‘v
+udeV saM‘parx‘dAyadalilxde. veVdikeya agala modalAdu‘
+ []
+
+
+Overfull \hbox (19.1405pt too wide) in paragraph at lines 1109--1113
+\OT1/ndi/m/n/10.95 tAga gereyu nilulx‘tatxdeyalalxveV? mateyalilxru‘vavarU saha
+ hUM AraM‘Bisida kU‘DaleV gereye‘LeyalAraMb‘
+ []
+
+[75]
+Overfull \hbox (18.38249pt too wide) in paragraph at lines 1117--1120
+[]\OT1/ndi/m/n/10.95 hAgeyeV kirxyeya savxBAvakakxnu‘gu‘Nav‘Agi dhavxniyu baru‘
+tatxdeyeMba bagegx parxy‘oV‘ga-yAvu‘dAdaroMdu
+ []
+
+
+Overfull \hbox (11.74857pt too wide) in paragraph at lines 1117--1120
+\OT1/ndi/m/n/10.95 modal‘Adadx‘nunx baL‘asikoMDu etatxradalilx bare‘di‘dAdx‘gal
+U etatxra‘va‘nunx patetx‘ha‘cacxlu sAd‘hayx‘vAgu‘vudu. aMteyeV
+ []
+
+
+Overfull \hbox (19.03003pt too wide) in paragraph at lines 1123--1124
+[]\OT1/ndi/m/n/10.95 (I modalu eS‘oTxV hiM‘d‘ina QuSi‘porxVkatx maM‘tarx‘gaLa u
+cAcxraNeya ma‘maR‘va‘nunx heVge tiLiyabahudeMba
+ []
+
+
+Overfull \hbox (5.47224pt too wide) in paragraph at lines 1125--1126
+[]\OT1/ndi/m/n/10.95 eraDaneyadAgi vi‘sheVSa lakaSx‘NA‘gaL‘iM‘dalU hiDiyabahudu
+. parx‘Na‘vanu‘va‘nunx ucacxridAga adu yAva
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.39742pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 76 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[76]
+Overfull \hbox (0.3116pt too wide) in paragraph at lines 1172--1173
+[]\OT1/ndi/m/n/10.95 QuSigaLaSuTx ALavAgi iLiya‘davaru QuSiVkaru. modalu ma‘haS
+iR‘gaLu naM‘tara QuSi‘gaLu, AmeVle
+ []
+
+[77]
+Overfull \hbox (9.9317pt too wide) in paragraph at lines 1176--1177
+\OT1/ndi/m/n/10.95 iSxmXyeV? athavA `beVDa ma‘nege hoVgu' eM‘dathaRvirabahudeV?
+ itAyxdiyAgi bare‘da‘vanige saMshayabaru‘
+ []
+
+
+Overfull \hbox (15.14029pt too wide) in paragraph at lines 1180--1181
+[]\OT1/ndi/m/n/10.95 `hA³vu hA³vu hA³vu' eMdu sAm‘a‘gAna‘mA‘DidAga adubeVre beV
+reyavarige EneVnoV athaRkoD‘
+ []
+
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (2.74815pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 78 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[78]
+Overfull \hbox (1.64767pt too wide) in paragraph at lines 1204--1205
+\OT1/ndi/m/n/10.95 hAgeyeV nav‘iligU bekikxgU oMdeV vayx‘va‘hAr‘aveV?. eraDU mi
+yAyxMvf anunx‘tetx eMba kAraNa mAtarxvi‘
+ []
+
+
+Overfull \hbox (4.03351pt too wide) in paragraph at lines 1210--1212
+[]\OT1/ndi/m/n/10.95 beLigegx 7 GaMTege elilx‘goV hoV‘gabeVkeM‘dukoM‘Di‘dAdxga,
+ gaDi‘yAr‘a‘va‘nunx A muLiLxna neVrakekx tirugis‘
+ []
+
+
+Overfull \hbox (4.25568pt too wide) in paragraph at lines 1210--1212
+\OT1/ndi/m/n/10.95 pabeVkAdare, Iga nAvu niMtiruva oMdu avalaM‘banada meVleyeV 
+heje‘jxyiD‘abeVk‘Agu‘vudu, adakokxMdu
+ []
+
+
+Overfull \hbox (1.30685pt too wide) in paragraph at lines 1210--1212
+\OT1/ndi/m/n/10.95 adara mU‘laka oLakekx hoV‘galu bu‘did‘hxge A ke‘lasa. satx‘n
+ayx‘pAna mADu‘titxruva magu‘vige ananx‘pArxshana mADis‘
+ []
+
+[79])
+Missing character: There is no W in font ndiri7t!
+
+Overfull \hbox (3.03314pt too wide) has occurred while \output is active
+\OT1/ndi/m/n/10.95 80 \OT1/ndi/m/sl/10.95 ADHAYXYA 3.  ASARVIDAYX SAMPARXDAYADA
+ BAGEGE MLIKA DAQSITXKOVNA - 
+ []
+
+[80] (./mainfile.aux) ) 
+Here is how much of TeX's memory you used:
+ 284 strings out of 493489
+ 3340 string characters out of 3141369
+ 68432 words of memory out of 3000000
+ 3648 multiletter control sequences out of 15000+200000
+ 11230 words of font info for 22 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 21i,5n,19p,4257b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on mainfile.dvi (90 pages, 379660 bytes).
